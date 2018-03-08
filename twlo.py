@@ -12,8 +12,7 @@ from yelp.obj.search_response import SearchResponse
 from pprint import pprint
 
 
-ACCOUNT_SID = 'ACa3193d860510667259301d76ccddef76'
-AUTH_TOKEN = 'e504db05f4ff8fd0a7f2ea08dd24c689'
+
 
 app = Flask(__name__)
         
